@@ -1,4 +1,4 @@
-# Retro Patterns
+# <img width="1280" alt="Retro Pattern Library" src="https://github.com/user-attachments/assets/1e81f131-2965-4596-baeb-c2fb458d5863" />
 
 A gallery of **535 tiled wallpaper patterns**. Click a PNG preview to download the corresponding BMP file.
 
